@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="Log" section_id="252925f50fa03200cd674f8ce1050e27" sys_domain="global" table="x_58872_needit_needit" version="3" view="">
+    <sys_ui_section caption="Last Section" section_id="1f5e76f507401010afd9fc289c1ed0c2" sys_domain="global" table="x_58872_needit_needit" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>comments</element>
+            <element>work_start</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-01-26 20:42:51</sys_created_on>
-            <sys_id>ad2925f50fa03200cd674f8ce1050e3d</sys_id>
+            <sys_created_on>2020-04-09 07:30:42</sys_created_on>
+            <sys_id>eb5e76f507401010afd9fc289c1ed0d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="Default view">252925f50fa03200cd674f8ce1050e27</sys_ui_section>
+            <sys_ui_section caption="Last Section" display_value="Last Section" name="x_58872_needit_needit" sys_domain="global" view="Default view">1f5e76f507401010afd9fc289c1ed0c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-01-26 20:42:51</sys_updated_on>
+            <sys_updated_on>2020-04-09 07:30:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>work_notes</element>
+            <element>work_end</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-01-26 20:42:51</sys_created_on>
-            <sys_id>212925f50fa03200cd674f8ce1050e3e</sys_id>
+            <sys_created_on>2020-04-09 07:30:42</sys_created_on>
+            <sys_id>e35e76f507401010afd9fc289c1ed0d9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="Default view">252925f50fa03200cd674f8ce1050e27</sys_ui_section>
+            <sys_ui_section caption="Last Section" display_value="Last Section" name="x_58872_needit_needit" sys_domain="global" view="Default view">1f5e76f507401010afd9fc289c1ed0c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-01-26 20:42:51</sys_updated_on>
+            <sys_updated_on>2020-04-09 07:30:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>activity.xml</element>
+            <element>.split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-01-26 20:42:51</sys_created_on>
-            <sys_id>a12925f50fa03200cd674f8ce1050e3e</sys_id>
+            <sys_created_on>2020-04-09 07:30:42</sys_created_on>
+            <sys_id>675e76f507401010afd9fc289c1ed0d9</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter display_value="">b832d3560a0001c700d781efe21e22f5</sys_ui_formatter>
-            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="Default view">252925f50fa03200cd674f8ce1050e27</sys_ui_section>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Last Section" display_value="Last Section" name="x_58872_needit_needit" sys_domain="global" view="Default view">1f5e76f507401010afd9fc289c1ed0c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-01-26 20:42:51</sys_updated_on>
+            <sys_updated_on>2020-04-09 07:30:42</sys_updated_on>
             <sys_user/>
-            <type>formatter</type>
+            <type>.split</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
-            <caption>Log</caption>
+            <caption>Last Section</caption>
             <header>false</header>
             <name>x_58872_needit_needit</name>
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-01-26 20:42:50</sys_created_on>
+            <sys_created_on>2020-04-09 07:30:41</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>252925f50fa03200cd674f8ce1050e27</sys_id>
+            <sys_id>1f5e76f507401010afd9fc289c1ed0c2</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Log</sys_name>
+            <sys_name>Last Section</sys_name>
             <sys_overrides/>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
             <sys_policy/>
             <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-            <sys_update_name>sys_ui_section_252925f50fa03200cd674f8ce1050e27</sys_update_name>
+            <sys_update_name>sys_ui_section_1f5e76f507401010afd9fc289c1ed0c2</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-01-26 20:42:50</sys_updated_on>
+            <sys_updated_on>2020-04-09 07:30:41</sys_updated_on>
             <sys_user/>
             <title>false</title>
             <view display_value="Default view" name="NULL">Default view</view>
